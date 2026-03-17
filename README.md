@@ -1,31 +1,51 @@
-# Hi, I'm Amit Bidlan 👋
+<div align="center">
+  <h1>Hi, I'm Amit Bidlan 👋</h1>
+  <p><strong>Full Stack Engineer</strong> based in Japan 🇯🇵</p>
+  <p>Building scalable web apps, cloud-native systems, and data pipelines.</p>
 
-**Software Developer** based in Japan 🇯🇵 | Building mobile apps, data pipelines, and more.
-
-[![Website](https://img.shields.io/badge/Website-amitbidlan.com-blue?style=flat-square&logo=google-chrome)](https://www.amitbidlan.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@Bidlan__amit-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/Bidlan_amit)
+  <a href="https://www.amitbidlan.com">
+    <img src="https://img.shields.io/badge/Website-amitbidlan.com-0070f3?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Bidlan_amit">
+    <img src="https://img.shields.io/badge/Twitter-@Bidlan__amit-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Mobile**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+**Frontend**
 
-**Data & ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend & Other**
+**Backend**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Cloud & Data**
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloud Workflows](https://img.shields.io/badge/Cloud_Workflows-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logo=sqlite&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitbidlan&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitbidlan&layout=compact&hide_border=true)
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amitbidlan&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitbidlan&layout=compact&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbidlan&hide_border=true" />
+</div>
